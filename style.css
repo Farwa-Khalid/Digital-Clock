@@ -1,0 +1,23 @@
+body{
+    background-image: url(travel1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+#clock_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#clock{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(241, 235, 235);
+   
+   
+}
